@@ -1,0 +1,14 @@
+# C#
+bin/
+obj/
+.vs/
+*.user
+TestResults/
+# Java
+target/
+# Python
+.venv/
+__pycache__/
+.pytest_cache/
+# JavaScript and TypeScript
+node_modules/
